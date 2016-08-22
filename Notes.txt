@@ -1,0 +1,16 @@
+Integrate with screen reader
+
+Adapt for Egypt - format Arabic script nicely
+
+Show detail on stock including price over time
+
+Have widget to display stock quotes on home screen
+
+App crashes when stock quote doesn't exist
+
+Blank screen with no network connection
+
+SyndAdapter
+services and notification
+set emptyView for database in syncadapter
+set emtpyview for no network connection
